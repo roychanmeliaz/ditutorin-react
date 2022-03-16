@@ -65,9 +65,17 @@ const Header = ({ t }: any) => {
         <CustomNavLinkSmall onClick={() => scrollTo("product")}>
           <Span>Produk</Span>
         </CustomNavLinkSmall>
-        <CustomNavLinkSmall
+        {/* <CustomNavLinkSmall
           style={{ width: "180px" }}
           onClick={() => scrollTo("signup")}
+        >
+          <Span>
+            <Button>Daftar</Button>
+          </Span>
+        </CustomNavLinkSmall> */}
+        <CustomNavLinkSmall
+          style={{ width: "180px" }}
+          onClick={() => window.location.replace("https://eps80yvfv3g.typeform.com/to/ZBSGVhvC")}
         >
           <Span>
             <Button>Daftar</Button>

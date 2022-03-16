@@ -41,7 +41,8 @@ const RightBlock = ({
                         key={id}
                         color={item.color}
                         fixedWidth={true}
-                        onClick={() => scrollTo("about")}
+                        // onClick={() => scrollTo("about")}
+                        onClick={() => window.location.replace("https://eps80yvfv3g.typeform.com/to/ZBSGVhvC")}
                       >
                         {t(item.title)}
                       </Button>

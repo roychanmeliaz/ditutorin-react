@@ -133,7 +133,7 @@ const Footer = ({ t }: any) => {
               <Language>Kontak</Language>
               {/* <Large to="/">Yuk cerita ke kita</Large> */}
               <Para>
-                Ada pertanyaan? Yuk hubungi kita di ...
+                Ada pertanyaan? Yuk hubungi kita di <a href="http://instagram.com/ditutor.in">instagram @ditutor.in</a>
               </Para>
               {/* <a href="mailto:l.belomadaemail@gmail.com">
                 <Chat>{t(`Let's Chat`)}</Chat>
