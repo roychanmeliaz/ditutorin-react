@@ -1,0 +1,26 @@
+{
+  "title": "Apa yang kita tawarkan?",
+  "text": "Membantu pelajar SMA sederajat menentukan pilihan dan mencapai tujuannya dengan menyediakan akses terhadap informasi, pendidikan, dan relasi yang dibutuhkan seluas-luasnya.  .",
+  "section": [
+    {
+      "title": "1-on-1 Mentoring",
+      "content": "Pada program ini, kamu dapat bertanya atau berkonsultasi secara personal dengan mentor sesuai kebutuhanmu.",
+      "icon": "oneonone.png"
+    },
+    {
+      "title": "Assesment Kecocokan Jurusan",
+      "content": "Program ini dapat memberikan penilaian yang membantu kamu menemukan jurusan yang sesuai dengan minat dan potensi dirimu.",
+      "icon": "assessment.png"
+    },
+    {
+      "title": "Webinar Pengembangan Diri",
+      "content": "Program ini berupa seminar online dengan berbagai speaker berpengalaman yang akan memberikan informasi bermanfaat dan kiat-kiat sukses untuk menggapai mimpimu.",
+      "icon": "webinar.png"
+    },
+    {
+      "title": "Networking",
+      "content": "Kamu berkesempatan untuk menjalin relasi dan mendapatkan teman dari berbagai daerah di Indonesia.",
+      "icon": "network.png"
+    }
+  ]
+}
