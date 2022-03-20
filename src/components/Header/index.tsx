@@ -75,7 +75,7 @@ const Header = ({ t }: any) => {
         </CustomNavLinkSmall> */}
         <CustomNavLinkSmall
           style={{ width: "180px" }}
-          onClick={() => window.location.replace("https://eps80yvfv3g.typeform.com/to/ZBSGVhvC")}
+          onClick={() => window.location.replace("https://docs.google.com/forms/d/e/1FAIpQLSdk0CCyvq6oWT5MKIzDO0XE_wGivYDVRSpjbvh2vMzcXqZBdg/viewform")}
         >
           <Span>
             <Button>Daftar</Button>

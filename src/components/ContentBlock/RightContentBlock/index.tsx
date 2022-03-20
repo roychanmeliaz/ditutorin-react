@@ -42,7 +42,7 @@ const RightBlock = ({
                         color={item.color}
                         fixedWidth={true}
                         // onClick={() => scrollTo("about")}
-                        onClick={() => window.location.replace("https://eps80yvfv3g.typeform.com/to/ZBSGVhvC")}
+                        onClick={() => window.location.replace("https://docs.google.com/forms/d/e/1FAIpQLSdk0CCyvq6oWT5MKIzDO0XE_wGivYDVRSpjbvh2vMzcXqZBdg/viewform")}
                       >
                         {t(item.title)}
                       </Button>
